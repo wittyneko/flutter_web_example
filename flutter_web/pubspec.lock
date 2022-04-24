@@ -175,6 +175,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.3.0"
+  ua_parser_js:
+    dependency: "direct main"
+    description:
+      name: ua_parser_js
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.1"
   vector_math:
     dependency: transitive
     description:
